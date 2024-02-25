@@ -1,0 +1,15 @@
+/Users/steeleshreve/Code Projects/OO-Design-Patterns/FactoryMethodPattern/FactoryMethodPattern/bin/Debug/net8.0/FactoryMethodPattern
+/Users/steeleshreve/Code Projects/OO-Design-Patterns/FactoryMethodPattern/FactoryMethodPattern/bin/Debug/net8.0/FactoryMethodPattern.deps.json
+/Users/steeleshreve/Code Projects/OO-Design-Patterns/FactoryMethodPattern/FactoryMethodPattern/bin/Debug/net8.0/FactoryMethodPattern.runtimeconfig.json
+/Users/steeleshreve/Code Projects/OO-Design-Patterns/FactoryMethodPattern/FactoryMethodPattern/bin/Debug/net8.0/FactoryMethodPattern.dll
+/Users/steeleshreve/Code Projects/OO-Design-Patterns/FactoryMethodPattern/FactoryMethodPattern/bin/Debug/net8.0/FactoryMethodPattern.pdb
+/Users/steeleshreve/Code Projects/OO-Design-Patterns/FactoryMethodPattern/FactoryMethodPattern/obj/Debug/net8.0/FactoryMethodPattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/steeleshreve/Code Projects/OO-Design-Patterns/FactoryMethodPattern/FactoryMethodPattern/obj/Debug/net8.0/FactoryMethodPattern.AssemblyInfoInputs.cache
+/Users/steeleshreve/Code Projects/OO-Design-Patterns/FactoryMethodPattern/FactoryMethodPattern/obj/Debug/net8.0/FactoryMethodPattern.AssemblyInfo.cs
+/Users/steeleshreve/Code Projects/OO-Design-Patterns/FactoryMethodPattern/FactoryMethodPattern/obj/Debug/net8.0/FactoryMethodPattern.csproj.CoreCompileInputs.cache
+/Users/steeleshreve/Code Projects/OO-Design-Patterns/FactoryMethodPattern/FactoryMethodPattern/obj/Debug/net8.0/FactoryMethodPattern.sourcelink.json
+/Users/steeleshreve/Code Projects/OO-Design-Patterns/FactoryMethodPattern/FactoryMethodPattern/obj/Debug/net8.0/FactoryMethodPattern.dll
+/Users/steeleshreve/Code Projects/OO-Design-Patterns/FactoryMethodPattern/FactoryMethodPattern/obj/Debug/net8.0/refint/FactoryMethodPattern.dll
+/Users/steeleshreve/Code Projects/OO-Design-Patterns/FactoryMethodPattern/FactoryMethodPattern/obj/Debug/net8.0/FactoryMethodPattern.pdb
+/Users/steeleshreve/Code Projects/OO-Design-Patterns/FactoryMethodPattern/FactoryMethodPattern/obj/Debug/net8.0/FactoryMethodPattern.genruntimeconfig.cache
+/Users/steeleshreve/Code Projects/OO-Design-Patterns/FactoryMethodPattern/FactoryMethodPattern/obj/Debug/net8.0/ref/FactoryMethodPattern.dll
