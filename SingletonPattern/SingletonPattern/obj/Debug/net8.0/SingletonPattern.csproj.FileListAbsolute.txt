@@ -1,0 +1,15 @@
+/Users/steeleshreve/Code Projects/OO-Design-Patterns/SingletonPattern/SingletonPattern/bin/Debug/net8.0/SingletonPattern
+/Users/steeleshreve/Code Projects/OO-Design-Patterns/SingletonPattern/SingletonPattern/bin/Debug/net8.0/SingletonPattern.deps.json
+/Users/steeleshreve/Code Projects/OO-Design-Patterns/SingletonPattern/SingletonPattern/bin/Debug/net8.0/SingletonPattern.runtimeconfig.json
+/Users/steeleshreve/Code Projects/OO-Design-Patterns/SingletonPattern/SingletonPattern/bin/Debug/net8.0/SingletonPattern.dll
+/Users/steeleshreve/Code Projects/OO-Design-Patterns/SingletonPattern/SingletonPattern/bin/Debug/net8.0/SingletonPattern.pdb
+/Users/steeleshreve/Code Projects/OO-Design-Patterns/SingletonPattern/SingletonPattern/obj/Debug/net8.0/SingletonPattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/steeleshreve/Code Projects/OO-Design-Patterns/SingletonPattern/SingletonPattern/obj/Debug/net8.0/SingletonPattern.AssemblyInfoInputs.cache
+/Users/steeleshreve/Code Projects/OO-Design-Patterns/SingletonPattern/SingletonPattern/obj/Debug/net8.0/SingletonPattern.AssemblyInfo.cs
+/Users/steeleshreve/Code Projects/OO-Design-Patterns/SingletonPattern/SingletonPattern/obj/Debug/net8.0/SingletonPattern.csproj.CoreCompileInputs.cache
+/Users/steeleshreve/Code Projects/OO-Design-Patterns/SingletonPattern/SingletonPattern/obj/Debug/net8.0/SingletonPattern.sourcelink.json
+/Users/steeleshreve/Code Projects/OO-Design-Patterns/SingletonPattern/SingletonPattern/obj/Debug/net8.0/SingletonPattern.dll
+/Users/steeleshreve/Code Projects/OO-Design-Patterns/SingletonPattern/SingletonPattern/obj/Debug/net8.0/refint/SingletonPattern.dll
+/Users/steeleshreve/Code Projects/OO-Design-Patterns/SingletonPattern/SingletonPattern/obj/Debug/net8.0/SingletonPattern.pdb
+/Users/steeleshreve/Code Projects/OO-Design-Patterns/SingletonPattern/SingletonPattern/obj/Debug/net8.0/SingletonPattern.genruntimeconfig.cache
+/Users/steeleshreve/Code Projects/OO-Design-Patterns/SingletonPattern/SingletonPattern/obj/Debug/net8.0/ref/SingletonPattern.dll
